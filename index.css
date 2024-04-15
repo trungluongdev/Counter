@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    justify-items: center;
+}
+#value{
+    font-weight: bold;
+    font-size: 2em;
+}
+.btn{
+    font-size: 0.6em;
+    background-color: transparent;
+    padding: 5px 5px;
+    margin: 0 0 5px 5px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.btn:hover{
+    background: transparent;
+    color: #2BAE66FF ;
+}
+
